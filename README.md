@@ -1,4 +1,4 @@
-# blockchain-resources
+# Blockchain-Resources
 
  A handy Blockchain Resources single README file.
 

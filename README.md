@@ -3,7 +3,6 @@
  A handy Blockchain Resources single README file.
 
 # Beginners Guide 
-Everything you need to read / watch to get started to understand blockchain and cryptocurrencies. 
 - [What is blockchain and how does it work?](https://cointelegraph.com/bitcoin-for-beginners/how-blockchain-technology-works-guide-for-beginners) - How Blockchain Technology Works. Great Guide for Beginners.
 - [What is Ethereum](https://hackernoon.com/understanding-ethereum-a-complete-guide-6f32ea8f5888) - A complete guide to Ethereum and how it works.  
 - [Banking on Bitcoin](https://www.netflix.com/title/80154500) Awesome Netflix documentary.

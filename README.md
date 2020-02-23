@@ -17,7 +17,8 @@ Best Blockchain websites:
 
 Blockchain Forums:
 - [Bitcointalk](https://bitcointalk.org/) 
-# Blockchain jobs / Crypto Jobs
+
+# Blockchain Jobs / Crypto Jobs
 - [Blockchain Jobseeker](https://blockchainjobseeker.com/) - Great website to find global crypto jobs and blockchain jobs worldwide.
 
 Podcasts
